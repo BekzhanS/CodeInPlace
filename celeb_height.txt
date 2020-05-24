@@ -1,0 +1,19 @@
+Will Smith, 1.88
+Danny DeVito, 1.47
+Tom Hanks, 1.83
+Verne Troyer, 0.81
+Ashley Olsen, 1.55
+Janet Jackson, 1.63
+Elijah Wood, 1.68
+Barack Obama, 1.85
+Will Ferrell, 1.91
+Dwayne Johnson, 1.96
+Peter Mayhew, 2.18
+Angelina Jolie, 1.69
+Megan Fox, 1.63
+Jennifer Aniston, 1.64
+Yoda, 0.66
+Kevin Hart, 1.63
+Jared Leto, 1.8
+Robert Downey Jr, 1.74
+Chris Hemsworth, 1.9
